@@ -9,10 +9,7 @@ import java.util.Arrays;
 
 
 
-/**
- *
- * @author Arun Reddy
- */
+
 public class ArrayPractice {
 
     /**
